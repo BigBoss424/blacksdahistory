@@ -3,27 +3,27 @@ title: Editorial
 subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+baseurl: "/blacksdahistory" # the subpath of your site, e.g. /blog
+url: "http://bigboss424.github.io/blacksdahistory" # the base hostname & protocol for your site
+author: Aaron Jones
+street_address: 3536 McNally Ave
+city: Altadena
+state: CA
+zip_code: 91001
 country: United States of America
-phone: (716) 555-5555
+phone: (559) 761-2046
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/bigboss424
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
