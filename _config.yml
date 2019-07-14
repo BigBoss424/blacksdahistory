@@ -1,10 +1,10 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Black SDA History 
+subtitle: Prototype Design
+email: ajones061392@yahoo.com
+description: A redesign of an already existing site
 baseurl: "/blacksdahistory" # the subpath of your site, e.g. /blog
-url: "http://bigboss424.github.io/blacksdahistory" # the base hostname & protocol for your site
+url: "https://bigboss424.github.io/blacksdahistory/" # the base hostname & protocol for your site
 author: Aaron Jones
 street_address: 3536 McNally Ave
 city: Altadena
@@ -24,6 +24,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: 
+youtube_url: https://www.youtube.com/user/Blacksdahistory
 
 # Build settings
 markdown: kramdown
